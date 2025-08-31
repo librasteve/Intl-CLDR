@@ -1178,7 +1178,7 @@
     "supplemental.data",
     "supplemental.strings"
   ],
-  "source-url": "git://github.com/alabamenhu/Intl-CLDR.git",
+  "source-url": "https://github.com/alabamenhu/Intl-CLDR.git",
   "support": {
     "source": "https://github.com/alabamenhu/META6.git"
   },
